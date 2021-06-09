@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: url(https://us.123rf.com/450wm/tumsasedgars/tumsasedgars1904/tumsasedgars190400111/121845190-to-do-list-business-education-and-success-background.jpg?ver=6)
+    no-repeat center center fixed;
+  background-color: #cccccc;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  font-weight: normal;
+  text-shadow: 1px 1px 2px #082b34;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
